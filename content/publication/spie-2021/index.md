@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'Primary Author'
-  - 'Principle Investigator'
+  - 'Principal Investigator'
 
 date: "2021-03-22T00:00:00Z"
 doi: "https://doi.org/10.1117/12.2584743"

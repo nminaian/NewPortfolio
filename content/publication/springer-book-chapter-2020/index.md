@@ -8,7 +8,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-- "Principle Investigator"
+- "Principal Investigator"
   
 date: "2020-11-07T00:00:00Z"
 doi: "https://doi.org/10.1007/978-3-030-50476-2_6"
