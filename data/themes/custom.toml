@@ -8,7 +8,7 @@ name = "Custom"
   # Menu
   menu_primary = "hsla(231, 15%, 18%, 1)"
   menu_text = "#fff"
-  menu_text_active = "rgb(143, 26, 108)"
+  menu_text_active = "#D6A5D1"
   menu_title = "#fff"
 
 [dark]
@@ -18,8 +18,12 @@ name = "Custom"
   # Menu
   menu_primary = "hsla(231, 15%, 18%, 1)"
   menu_text = "#fff"
-  menu_text_active = "#rgb(143, 26, 108)"
+  menu_text_active = "#D6A5D1"
   menu_title = "#fff"
+
+  # Link colors
+  link = "#ABA5D6"
+  link_hover = "white"
 
   # Backgrounds
   background = "#000"
