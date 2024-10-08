@@ -35,6 +35,7 @@ slides: ""
 ---
 
 ## Project Scope
+
 Ionic polymer-metal composites (IPMCs) are a type of electroactive polymer typically used in soft-robotic applications. The unique two-way transduction property of IPMCs allows for both actuation and sensing, which, in conjunction with its ability to be used in aqueous environments, can be used for various underwater applications. For this study, we aim to use the IPMC' s unique sensing capabilities as an underwater flow sensor, capable of measuring the flow field of the surrounding environment. This approach is dependent on signal characterization of the acquired voltage response and the fluid dynamics phenomenon of Kármán vortex streets. The latter requires the sensor to detect the frequency of vortex shedding from either the sensor itself or from an obstructing object positioned before the IPMC sensor. The project was split into three major goals:
 
 1) Capture and track the relative velocity of IPMC sensor using imaging and image process techniques.Confirm this value with our known value, and calculate expected vortex shedding frequency with this velocity.

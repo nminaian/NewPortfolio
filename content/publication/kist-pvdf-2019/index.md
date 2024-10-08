@@ -12,7 +12,7 @@ authors:
 - Youngsu Cha
 - 
 # Author notes (optional)
-author_notes:
+author_notes: ''
 
 date: '2020-11-07T00:00:00Z'
 doi: ''

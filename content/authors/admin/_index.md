@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Research Assistant
+role: Ph.D. Candidate | Graduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,7 +24,7 @@ organizations:
     url: https://www.kwangjinkim.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include electroactive polymers, smart materials, and computer vision.
+bio: My research interests include electroactive polymers, flow sensing, energy harvesting, and computer vision.
 
 # Interests to show in About widget
 interests:
@@ -37,8 +37,11 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: University of Nevada, Las Vegas
-      year: Est. 2024
-    - course: BSE in Mechanical Engineering
+      year: Est. 2025
+    - course: MS in Aerospace Engineering
+      institution: University of Nevada, Las Vegas
+      year: 2024
+    - course: BS in Mechanical Engineering
       institution: University of Nevada, Las Vegas
       year: 2018
 
@@ -58,7 +61,7 @@ social:
       header: true
   - icon: google-scholar # alt: graduation-cap (fas)
     icon_pack: ai
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=jHSonusAAAAJ
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
@@ -78,9 +81,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Nazanin Minaian is an accomplished graduate research assistant affiliated with the Active Materials and Smart Living (AMSL) lab located at the University of Nevada, Las Vegas (UNLV). Working under the guidance of Professor Kwang J. Kim, she focuses her scholarly pursuits on investigating electroactive polymers, specifically ionic polymer-metal composites (IPMCs), polymer gels, and other areas of active material-related research.
+Nazanin Minaian is a dedicated Ph.D. candidate at the University of Nevada, Las Vegas (UNLV), working in the Active Materials and Smart Living (AMSL) lab under the guidance of Professor Kwang J. Kim. Her research focuses on electroactive polymers (EAPs) and their practical applications in dynamic environments. Drawing inspiration from aquatic sensory organs, she has developed innovative designs for flow sensing and energy harvesting, motivated by the potential to integrate natural principles with cutting-edge technology for real-world applications, including underwater hydrofoils and renewable energy systems. Her dissertation, titled “Bio-Inspired Electroactive Polymer Sensors for Surface and Canal Flow Sensing in Dynamic Environments,” explores these topics through three major case studies.
 {style="text-align: justify;"}
-Nazanin's academic endeavors have extended across borders, as she had the privilege of assuming the role of a visiting research assistant at the Korean Institute of Science and Technology (KIST) in the bustling city of Seoul, South Korea. There, she collaborated with international researchers on the topic of soft robotics, further enriching her knowledge and expertise in the field.
-{style="text-align: justify;"}
-Nazanin anticipates transitioning to doctoral candidacy in the Fall of 2023, culminating in the completion of her Ph.D. by Spring 2024. She hopes to continue further advancing her contributions to cutting-edge research and innovation in the field of active materials.
-{style="text-align: justify;"}
+In addition to her research, Nazanin teaches ME 453: Mechanical Vibrations, where she emphasizes student engagement. Her teaching style reflects her commitment to helping students develop problem-solving skills in real-world contexts, using methods that encourage exploration and deep understanding. Nazanin's academic endeavors have extended across borders, as she had the privilege of collaborating with international researchers on the topic of soft robotics, further enriching her knowledge and expertise in the field. With a background as an Iranian-American woman in engineering, she blends cultural mindfulness with scientific rigor, bringing a unique and thoughtful perspective to her work.

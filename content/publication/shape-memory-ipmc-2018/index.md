@@ -5,7 +5,7 @@ authors:
 - Tyler Stalbaum
 - admin
 - Kwang J. Kim
-author_notes:
+author_notes: ''
 
 date: "2018-08-02T00:00:00Z"
 doi: "https://doi.org/10.1088/1361-665X/aaeb83"

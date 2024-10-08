@@ -66,7 +66,7 @@ sections:
           icon: python
           icon_pack: fab
         - name: Modeling
-          description: SolidWorks, COMSOL Multiphysics, solidThinking Inspire
+          description: SolidWorks, COMSOL Multiphysics, Simpleware ScanIP
           icon: cubes
           icon_pack: fas
         - name: Experimental
@@ -78,11 +78,11 @@ sections:
           icon: camera
           icon_pack: fas
         - name: Technical Writing
-          description: Project Reports, SOPs, Proposals, Posters, Presentations, Publications
+          description: Project Reports, SOPs, Proposals, Conference Posters/Presentations, Publications
           icon: book
           icon_pack: fas
-        - name: Software
-          description: LabVIEW, Adobe Suite, Office Suite
+        - name: Misc. Software
+          description: Adobe Suite, LabView, VSCode
           icon: window-restore
           icon_pack: fas
 
