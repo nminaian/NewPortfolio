@@ -10,7 +10,7 @@ date: '2020-02-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Placeholder
+  caption: Render and Application of Flow Equipment
   focal_point: Smart
 
 # links:
@@ -32,4 +32,6 @@ url_video: ''
 slides: ""
 ---
 
-## *~Description In Progress~*
+## Project Description
+
+Lead on managing the fluid dynamics division of the Active Materials and Smart Living (AMSL) lab within UNLV. Tasks include procurement of equipment and negotiating with the university regarding competitive exemption of equipment purchasing; Equipment includes but not limited to a Loligo® Systems Swim Tunnel (185L), TSI V3V Particle Imaging Velocimetry (PIV) System, and a three-phase VFD which required additional electrical setup per university building requirements; Responsible for decisions on equipment location, operation, and was lead on installation; A standard operating procedure (SOP) was written and approved along with extensive safety considerations and training plans as required from the building where the lab resides; A safety enclosure was also designed and fabricated to meet safety guidelines.

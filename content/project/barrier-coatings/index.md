@@ -1,6 +1,6 @@
 ---
 title: 'Company Innovation Research White Paper - Searching for an Effective Filler Material used in Barrier Coatings '
-summary: Preliminary research and proposal on anti-fouling methods for proprietary company surface coating materials was presented at a symposium by local startup company. Was selected as the top pick for funding from a group of graduate-level researchers at UNLV. Currently communicating to further improve thermal and anti-fouling characteristics of proprietary surface coating material. 
+summary: Submitted proposal on anti-fouling methods for proprietary company surface coating materials was presented at a symposium by local startup company. Was selected as the top pick for funding from a group of graduate-level researchers at UNLV. Collaborated and researched methods to further improve thermal and anti-fouling characteristics of proprietary surface coating material. 
 tags:
   - 
 date: '2023-03-25T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2023-03-25T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Placeholder
+  caption: TPU-based Pebble Surface Samples
   focal_point: Smart
 
 # links:
@@ -31,4 +31,6 @@ url_video: ''
 slides: ""
 ---
 
-## *~Description In Progress~*
+## Project Summary
+
+Submitted proposal on anti-fouling methods for proprietary company surface coating materials was presented at a symposium by local startup company. Was selected as the top pick for funding from a group of graduate-level researchers at UNLV. Collaborated and researched methods to further improve thermal and anti-fouling characteristics of proprietary surface coating material.

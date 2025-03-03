@@ -66,7 +66,7 @@ sections:
           icon: python
           icon_pack: fab
         - name: Modeling
-          description: SolidWorks, COMSOL Multiphysics, Simpleware ScanIP
+          description: SolidWorks, COMSOL Multiphysics, Autodesk Fusion 360 Simpleware ScanIP
           icon: cubes
           icon_pack: fas
         - name: Experimental
