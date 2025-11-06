@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate | Graduate Research Assistant
+role: Ph.D. in Mechanical Engineering | Research Faculty
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: University of Nevada, Las Vegas
-      year: Est. 2025
+      year: 2025
     - course: MS in Aerospace Engineering
       institution: University of Nevada, Las Vegas
       year: 2024
@@ -81,6 +81,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Nazanin Minaian is a dedicated Ph.D. candidate at the University of Nevada, Las Vegas (UNLV), working in the Active Materials and Smart Living (AMSL) lab under the guidance of Professor Kwang J. Kim. Her research focuses on electroactive polymers (EAPs) and their practical applications in dynamic environments. Drawing inspiration from aquatic sensory organs, she has developed innovative designs for flow sensing and energy harvesting, motivated by the potential to integrate natural principles with cutting-edge technology for real-world applications, including underwater hydrofoils and renewable energy systems. Her dissertation, titled “Bio-Inspired Electroactive Polymer Sensors for Surface and Canal Flow Sensing in Dynamic Environments,” explores these topics through three major case studies.
+Nazanin Minaian, Ph.D., is a mechanical engineer and researcher specializing in bio-inspired sensing systems and smart materials. She earned her doctorate in Mechanical Engineering from the University of Nevada, Las Vegas, where her research in the Active Materials and Smart Living (AMSL) Lab focused on electroactive polymers (EAPs) for flow sensing and energy harvesting.
+Drawing inspiration from aquatic sensory organs, she developed polymer-based “artificial skin” and canal-type sensors capable of detecting fluid dynamics in complex environments. Her work bridges materials science, fluid mechanics, and biomimetic design to advance technologies for underwater robotics, renewable energy, and soft sensing platforms.
 {style="text-align: justify;"}
-In addition to her research, Nazanin teaches ME 453: Mechanical Vibrations, where she emphasizes student engagement. Her teaching style reflects her commitment to helping students develop problem-solving skills in real-world contexts, using methods that encourage exploration and deep understanding. Nazanin's academic endeavors have extended across borders, as she had the privilege of collaborating with international researchers on the topic of soft robotics, further enriching her knowledge and expertise in the field. With a background as an Iranian-American woman in engineering, she blends cultural mindfulness with scientific rigor, bringing a unique and thoughtful perspective to her work.
+In addition to her research, Nazanin is committed to mentorship and scientific community building. She has guided undergraduate and graduate students through interdisciplinary projects in smart materials and experimental design, fostering curiosity, technical skill, and creative confidence in emerging engineers. As an Iranian-American engineer, she is passionate about cross-disciplinary collaboration and inclusive innovation that connects natural principles with human-centered technology.
