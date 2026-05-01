@@ -1,0 +1,83 @@
+// Case Study 1
+
+a[href="/project/case-study-1/"] .img-hover-zoom {
+  position: relative;
+  overflow: hidden;
+}
+
+a[href="/project/case-study-1/"] .img-hover-zoom::after {
+  content: "UNDER EMBARGO";
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.35);
+  color: #fff;
+  font-weight: 800;
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+  // transform: rotate(-12deg);
+  border: 3px solid #fff;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  padding: 6px 18px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+} 
+
+// Case Study 2a
+
+a[href="/project/case-study-2a/"] .img-hover-zoom {
+  position: relative;
+  overflow: hidden;
+}
+
+a[href="/project/case-study-2a/"] .img-hover-zoom::after {
+  content: "UNDER EMBARGO";
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.35);
+  color: #fff;
+  font-weight: 800;
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+  // transform: rotate(-12deg);
+  border: 3px solid #fff;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  padding: 6px 18px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+} 
+
+// Case Study 2b
+
+a[href="/project/case-study-2b/"] .img-hover-zoom {
+  position: relative;
+  overflow: hidden;
+}
+
+a[href="/project/case-study-2b/"] .img-hover-zoom::after {
+  content: "UNDER EMBARGO";
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.35);
+  color: #fff;
+  font-weight: 800;
+  font-size: 1rem;
+  letter-spacing: 0.15em;
+  // transform: rotate(-12deg);
+  border: 3px solid #fff;
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+  padding: 6px 18px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
+} 

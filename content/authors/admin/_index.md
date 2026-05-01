@@ -82,7 +82,8 @@ email: ''
 highlight_name: true
 ---
 {style="text-align: justify;"}
-Nazanin Minaian, Ph.D., is a mechanical engineer and researcher specializing in bio-inspired sensing systems and smart materials. She earned her doctorate in Mechanical Engineering from the University of Nevada, Las Vegas, where her research in the Active Materials and Smart Living (AMSL) Lab focused on electroactive polymers (EAPs) for flow sensing and energy harvesting.
-Drawing inspiration from aquatic sensory organs, she developed polymer-based “artificial skin” and canal-type sensors capable of detecting fluid dynamics in complex environments. Her work bridges materials science, fluid mechanics, and biomimetic design to advance technologies for underwater robotics, renewable energy, and soft sensing platforms.
+Nazanin Minaian, Ph.D., is a mechanical engineer and researcher specializing in bio-inspired sensing systems and smart materials. Her doctoral research at the University of Nevada, Las Vegas, conducted in the Active Materials and Smart Living (AMSL) Lab, focused on electroactive polymers (EAPs) for flow sensing and energy harvesting.
 
-In addition to her research, Nazanin is committed to mentorship and scientific community building. She has guided undergraduate and graduate students through interdisciplinary projects in smart materials and experimental design, fostering curiosity, technical skill, and creative confidence in emerging engineers. As an Iranian-American engineer, she is passionate about cross-disciplinary collaboration and inclusive innovation that connects natural principles with human-centered technology.
+Drawing inspiration from aquatic sensory organs, her research focused on the development of EAP-based “artificial skin” and canal-type sensors capable of detecting fluid dynamics in underwater environments. Her work bridges materials science, fluid mechanics, and biomimetic design to advance technologies for underwater robotics, renewable energy, and soft sensing platforms.
+
+Beyond her research, Nazanin is committed to mentorship and scientific community building, guiding students through interdisciplinary projects in smart materials and experimental design. She is passionate about innovation that connects natural principles with human-centered technology.

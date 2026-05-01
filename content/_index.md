@@ -27,7 +27,7 @@ sections:
       subtitle: ''
       text: |-
         {{% callout note %}}
-        Website Under Development! Please Excuse Any Bugs 🐛
+        Welcome! Portions of this portfolio are under academic embargo pending publication. Contact me if you have any questions!
         {{% /callout %}}
         </n>
     design:
@@ -61,12 +61,12 @@ sections:
     content:
       title: Skills
       items:
-        - name: Coding
-          description: Python, Jupyter, MATLAB, Wolfram Mathematica
+        - name: Programming
+          description: Python (Jupyter, OpenCV), MATLAB, Wolfram Mathematica
           icon: python
           icon_pack: fab
-        - name: Modeling
-          description: SolidWorks, COMSOL Multiphysics, Autodesk Fusion 360 Simpleware ScanIP
+        - name: Simulation & Modeling
+          description: SolidWorks, COMSOL Multiphysics, Autodesk Fusion 360, Simpleware ScanIP
           icon: cubes
           icon_pack: fas
         - name: Experimental
@@ -81,8 +81,8 @@ sections:
           description: Project Reports, SOPs, Proposals, Conference Posters/Presentations, Publications
           icon: book
           icon_pack: fas
-        - name: Misc. Software
-          description: Adobe Suite, LabView, VSCode
+        - name: Data Software
+          description: LabVIEW, OriginLab, Tecplot, LabJack, VSCode
           icon: window-restore
           icon_pack: fas
 
